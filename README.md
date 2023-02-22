@@ -1,7 +1,3 @@
-# Grab-Posisi-Analysis
-
-https://alif898.github.io/Grab-Posisi-Analysis/
-
 Analysis of Grab-Posisi dataset, Southeast Asia’s First Comprehensive GPS Trajectory Dataset, as part of NUS Data Analytics Competition 2022
 
 ### Problem Statement
